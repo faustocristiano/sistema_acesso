@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/acesso.dir/main.c.o  -o acesso 
